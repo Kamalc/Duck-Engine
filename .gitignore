@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+!vendor/premake/bin/
+bin-int/
+
+# Duck files
+*.log
+
+# Visual Studio files and folder
+.vs/
+
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
