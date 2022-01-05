@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{9C89BB5D-978F-4E7A-B2A0-0E51D550FD24}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Duck_Engine", "Duck_Engine\Duck_Engine.vcxproj", "{F4C7833B-BFCE-4C59-A867-858CFFFC88E8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Duck_Engine", "Duck\Duck.vcxproj", "{F4C7833B-BFCE-4C59-A867-858CFFFC88E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
