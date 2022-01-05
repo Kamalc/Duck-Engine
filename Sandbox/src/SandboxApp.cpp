@@ -1,4 +1,4 @@
-#include "Duck.h"
+#include <Duck.h>
 
 class Sandbox : public Duck::Application
 {
