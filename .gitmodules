@@ -1,0 +1,3 @@
+[submodule "Duck/vendor/spdlog"]
+	path = Duck/vendor/spdlog
+	url = https://github.com/gabime/spdlog
